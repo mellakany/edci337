@@ -1,0 +1,189 @@
+:: StoryTitle
+Forest Walk
+
+
+:: StoryData
+{
+  "ifid": "6DEA1C37-5E56-4AFC-8A2F-42684DFED0A3",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Beginnning",
+  "zoom": 1
+}
+
+
+:: Beginnning {"position":"550,150","size":"100,100"}
+You are walking through a beatiful forest in Victoria, BC 
+
+Come with me [[Down the forest path]] 
+
+
+:: Down the forest path {"position":"750,75","size":"100,100"}
+The path splits into two. The path on the right looks dark and scary. The path on the left looks sunny and beautiful. 
+
+Will you take the [[right path]]
+
+or 
+
+the [[left path]]
+
+
+
+:: Jacob to calm down {"position":"1375,300","size":"100,100"}
+You talk to Jacob and have a great walk with him. After a nice little hike you go [[home]]. 
+
+
+:: LOOK FOR BEAR SPRAY IN YOUR BAG {"position":"875,675","size":"100,100"}
+You frantickly look for the bear spray in your bag 
+
+Is it there? [[YES]] or [[NO]]
+
+
+:: NO {"position":"1125,775","size":"100,100"}
+Well the bear mauls you and sorry but you die 
+
+[[end of game]]
+
+
+:: RUN {"position":"475,400","size":"100,100"}
+You double back and run fast down the path and take a right onto the [[left path]] 
+
+
+:: WILL YOU PLAY DEAD {"position":"450,675","size":"100,100"}
+Well..... quick tip .... bears eat dead things. 
+
+It rips you apart and you become a meal for the bear 
+
+You lost the game sorry :(
+
+[[end of game]]
+
+
+:: YES {"position":"850,900","size":"100,100"}
+You spray the bear and miss, the wind sends it back into your direction. 
+
+The bear eats you [[end of game]] 
+
+
+:: YES ROBERT {"position":"1075,1075","size":"100,100"}
+You two have a wonderful life together taking care of raccoons forever 
+
+
+:: continue talking to Robert {"position":"1250,725","size":"100,100"}
+You keep on talking to Robert and get a job there.
+
+Do you want to start [[dating robert]] or become a [[spinster]]? 
+
+
+:: continue walking {"position":"700,500","size":"100,100"}
+OH GOD THERES A BEAR
+
+HURRY DECIDE
+
+WILL YOU [[RUN]]
+
+OR 
+
+WILL YOU [[LOOK FOR BEAR SPRAY IN YOUR BAG]]
+
+OR [[WILL YOU PLAY DEAD]]
+
+
+:: dating robert {"position":"1200,950","size":"100,100"}
+Years go past and finally he gets down on one knee and asks that special question "will you marry me y/n?"
+
+Do you say [[YES ROBERT]]
+
+or [[no and I am sorry]]?
+
+
+:: end of game {"position":"575,950","size":"100,100"}
+end of game 
+
+
+:: follow the baby raccoon {"position":"1075,575","size":"100,100"}
+You follow the baby raccoon and come across a raccoon sanctuary
+
+There is a very handsome guy working there ......
+
+Do you get nervous and decide to go back to the path and [[continue walking]] 
+
+or 
+
+do you go and [[talk to him]]?
+
+
+:: glittery man {"position":"1500,300","size":"100,100"}
+You appoach this man and ask his name, and he says his name is Edward. 
+
+He suddenly attacks you are sucks your blood! Hes a vampire 
+
+[[end of game]] 
+
+
+:: go back to your walk {"position":"1050,375","size":"100,100"}
+Robert looks sad but understands and you go back to the forest path and take the [[left path]] 
+
+
+:: go look at the raccoon {"position":"925,450","size":"100,100"}
+The raccoon plays with you and snuggles into your arms! How cute <3 
+
+It starts walking into the woods
+
+Do you [[follow the baby raccoon]] 
+
+or 
+
+do you [[continue walking]] 
+
+
+:: home {"position":"1500,1050","size":"100,100"}
+You are back home, end of game
+
+
+:: left path {"position":"950,125","size":"100,100"}
+It starts to look scary and dark on this path, do you want to turn back and head [[home]]  or continue on [[this path]]?
+
+
+:: no and I am sorry {"position":"1325,1075","size":"100,100"}
+He is heartbroken and understands. You return [[home]]. 
+
+
+:: right path {"position":"775,300","size":"100,100"}
+You are going down the path and come across a cute baby raccoon
+
+Will you [[continue walking]] 
+
+or 
+
+will you [[go look at the raccoon]]
+
+
+:: spinster {"position":"1375,850","size":"100,100"}
+You return [[home]]. 
+
+
+:: talk to him {"position":"1250,600","size":"100,100"}
+You approach the  handsome man and he blushes when he sees you. 
+
+"Hi there, whats your name?" he says 
+
+"Oh my name is y/n, and whats yours?" you reply 
+
+"Hi y/n, my name is Robert Irwin, I am visiting from Australia mate"
+
+Do you want to [[continue talking to Robert]] or [[go back to your walk]]? 
+
+
+:: talking to Jacob {"position":"1375,175","size":"100,100"}
+Jacob and you walk and talk until a figure appears in the trees to your right. His skin is pale and looks like stone. When the sun touches his skin, his skin glitters like diamonds. 
+
+Jacob stand infront of you and growls at this man. Although Jacob seems threathend, you are intrigued. 
+
+Do you tell [[Jacob to calm down]] and continue spending time together? Or do you approach the [[glittery man]]?
+
+
+:: this path {"position":"1275,25","size":"100,100"}
+After walking for a few more minutes you come across a clearing. Suddenly you hear a voice "y/n, where the heck have you been loco?". Oh its my friend Jacob! He gives me a bear hug. 
+
+Do you want to continue [[talking to Jacob]] or say goodback and  [[continue walking]] ?
